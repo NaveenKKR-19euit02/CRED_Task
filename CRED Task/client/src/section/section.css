@@ -1,0 +1,23 @@
+.backGround {
+    background-image: url('../images/section.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; 
+    height: 100vh; 
+}
+
+.engineoil{
+    height:90px;
+}
+.clutch{
+    height:90px;
+}
+.heading{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #FBAF1A;
+}
+.inclusion{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

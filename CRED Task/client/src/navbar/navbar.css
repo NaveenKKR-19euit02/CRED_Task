@@ -1,0 +1,13 @@
+.logo{
+    height: 50px;
+}
+.logo:hover{
+    cursor: pointer;
+}
+.navbar{
+    background-color: #000000!important;
+}
+.navbar-toggler{
+    color: white;
+    background-color: aliceblue;
+}
